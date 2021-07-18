@@ -11,6 +11,6 @@ again, forcing a sync event.
 
 This is dumb. Nobody should need to do this. But here we are.
 
-Only built and tested using Ubuntu 20.04, but there are extensive test
-cases. Build using `make`, and test using `make test`.
+Only built and tested using Ubuntu 20.04 and ancient OpenBSD, but there are
+extensive test cases. Build using `make`, and test using `make test`.
 
